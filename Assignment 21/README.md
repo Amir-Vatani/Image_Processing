@@ -1,5 +1,3 @@
-# Image_Processing
-## Assignment 21
 ### Letter A
 ![letter(A)](https://user-images.githubusercontent.com/76522668/156942465-4a4b8d22-8b7d-448b-a4c6-6204729545ff.jpg)
 
