@@ -9,5 +9,7 @@ usage: python sudoku_detector.py --input [path of your input image] --filter_siz
 <hr>
 
 ### Sudoku Detect Using Webcam
+click "s" for save sudoku image
+
 https://user-images.githubusercontent.com/76522668/161553156-5220555c-8bd2-441b-a870-9a7b3a9653c7.mp4
 
